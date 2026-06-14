@@ -1,2 +1,2 @@
 # Bootcamp1-Intermediario
-Desenvolvimento da etapas intermediária e final do projeto da disciplina Bootcamp I
+Desenvolvimento das etapas intermediária e final do projeto da disciplina Bootcamp I
